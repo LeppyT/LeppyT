@@ -1,5 +1,5 @@
 ### Hi, i'm Alexandre.
-- 🌱 I’m currently learning Java, Haskell, and C.
+- 🌱 I’m currently learning Haskell, C, and Rust.
 - I’m currently working on UFU's compsci assignments, they take up most of my time.
 - Side fact: I'm pretty good at Rhythm Games and have played an unhealthy amount of Old School RuneScape.
 <!--
