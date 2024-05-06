@@ -1,7 +1,5 @@
 ### Hi, i'm Alexandre.
-- 🌱 I’m currently learning Java, C, and Rust.
-- I’m currently working on UFU's compsci assignments, they take up most of my time.
-- Side fact: I'm pretty good at Rhythm Games and have played an unhealthy amount of Old School RuneScape.
+- I'm pretty good at Rhythm Games and have played an unhealthy amount of Old School RuneScape.
 <!--
 **LeppyT/LeppyT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
